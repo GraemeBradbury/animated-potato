@@ -1,7 +1,9 @@
 #"Brain surgery for the autodidact." - How I relearned learning. #
 
 ##Summary##
-In 2014 Graeme Bradbury. asked himself the question "Is the way I learn working?". Hear his journey as he tried to answer that question.
+It's the nature of a career in software development, that we are always learning.
+In an attempt to create more time to spend on family and life, Graeme, in late 2014, asked himself "Am I learning effectively?"
+This talk is a history of some of the techniques he tried, what worked (or not) and why.
 
 ##Perception##
 1. Asperger diagnosis
@@ -27,7 +29,7 @@ In 2014 Graeme Bradbury. asked himself the question "Is the way I learn working?
 A little disheartening:
 "Can I do what I do, just ...faster"
 
-this is painful at this point. All my guesses were way off and 
+this is painful at this point. All my guesses were way off 
 
 ##Will##
 
@@ -41,6 +43,11 @@ this is painful at this point. All my guesses were way off and
 	- Ego depletion.
 
 3. Habits using events and locations to trigger learning. Maintenance.
+
+4. Getting it into your head.
+	1. long term memory
+	2. Challenge yourself 
+	3. create models
 
 
 ##Finish##
