@@ -1,9 +1,11 @@
-#"Brain surgery for the autodidact." - How I relearned learning. #
+#"Brain surgery for the autodidact - How I relearned to learn"#
 
 ##Summary##
-It's the nature of a career in software development, that we are always learning.
-In an attempt to create more time to spend on family and life, Graeme, in late 2014, asked himself "Am I learning effectively?"
-This talk is a history of some of the techniques he tried, what worked (or not) and why.
+In late 2014 I challenged my treasured assumption that I was good at learning. I wanted to spend more time with my kids, and all the out of hours study was cutting into this.
+
+So I spent the next year (and more) investigating and trying out techniques to improve my ability to learn.
+
+This is the story of how I learned I was actually rather poor at learning, what I did to improve, and how you can do the same.
 
 ##Perception##
 1. Asperger diagnosis
