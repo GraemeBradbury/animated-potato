@@ -1,17 +1,65 @@
+#Brain Surgery for the Autodidact#
+How I Relearned to Learn.
 
-Brain Surgery for the Autodidact
-***
-WHY?
+---
+background-image: url(pile-of-books.jpg)
 
-- In late 2014 my son was diagnosed with aspergers and I needed to learn
-- So this is my story as I figured out how to spend less time learning technology and more time with
 
-***
-I thought i was in a good place.
-People said i was good.
-Had a good memory
+???
+Always been a good reader
+had taught myself to read without hearing a 'self narrator'
+---
 
-***
-I learned i was rather average, just with good habit/s
+##VARK##
+- Visual
+- Auditory
+- Read/Write
+- Kinesthetics
 
-***
+---
+
+##Re-Reading Notes##
+Dramatically increases retention.
+caution: This is retention not understanding.
+
+---
+
+##Learning Pyramid##
+It's a hoax.
+The various stages are basically all equal.
+
+---
+
+#Middle#
+
+---
+
+Story about Charlie Munger/Warren Buffet.
+
+---
+
+1. Why Why Why
+
+---
+
+2. No-Decisions
+
+---
+
+3. Question all the things.
+
+---
+
+#Now#
+
+---
+
+1. Hand writing notes - Stepping outside of comfort zone.
+
+---
+
+2. Read-Recite-Review
+
+---
+
+3. Role of the Teacher
