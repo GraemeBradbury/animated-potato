@@ -1,0 +1,1 @@
+merge /etc/conf.d/nfs-{common, server} into /etc/sysconfig/nfs
