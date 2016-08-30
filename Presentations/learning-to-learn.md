@@ -51,6 +51,13 @@ this is painful at this point. All my guesses were way off
 	2. Challenge yourself 
 	3. create models
 
+5. SQ3R
+	1. Skim through the upcoming material.
+	2. Decide on questions?
+	3. Read the material.
+	4. Talk back yourself about the material.
+	5. Go over what you missed.
+
 
 ##Finish##
 While learning is a journey that never ends, this talk has to.
