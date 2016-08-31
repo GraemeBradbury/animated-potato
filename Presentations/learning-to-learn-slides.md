@@ -1,3 +1,7 @@
+> In times of change learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists. - Eric Hoffer
+
+---
+
 #Brain Surgery for the Autodidact#
 How I Relearned to Learn.
 
@@ -8,6 +12,7 @@ background-image: url(pile-of-books.jpg)
 ???
 Always been a good reader
 had taught myself to read without hearing a 'self narrator'
+
 ---
 
 ##VARK##
