@@ -104,3 +104,8 @@ blockquote p {
 .dark-image {
 	color: #f3f3f3;
 }
+
+.idea-summary {
+    background-image: url(electricity-705670_1280.jpg);
+    color: #7fff00;
+}

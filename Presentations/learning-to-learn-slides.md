@@ -26,6 +26,11 @@ So I wanted to get better at learning. It's the root of what we software enginee
 
 So that is what this talk is about.
 
+---
+class: idea-summary
+
+- Consistency and Momentum
+???
 I'm going to start with my answers to getting better at learning.
 
 They're simply:
@@ -33,6 +38,8 @@ They're simply:
 2. Engagement
 
 These are just simple words, though not necessarily easy concepts to put into practice.
+
+However answers need a context, without one there's so much information that is hidden. They're nothing more than directions without a start point.
 
 ---
 background-image: url(i-flip-flap-184343_1920.jpg)
@@ -103,3 +110,12 @@ Story about Charlie Munger/Warren Buffet.
 ---
 
 3. Role of the Teacher
+
+
+---
+
+???
+Passion.
+Talk about the learning.
+
+Learning is a huge thing, to learn not only opens up new things to learn. Which by itself it is a great reason to do it.
