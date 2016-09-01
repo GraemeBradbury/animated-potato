@@ -6,7 +6,7 @@ class: center, middle
 Intro slide leave up as people come in.
 
 ---
-background-image: url(pile-of-books.jpg)
+background-image: url(images/pile-of-books.jpg)
 
 ???
 
@@ -27,9 +27,15 @@ So I wanted to get better at learning. It's the root of what we software enginee
 So that is what this talk is about.
 
 ---
-class: idea-summary
+class: idea-summary, center, middle
+
 
 - Consistency and Momentum
+
+--
+
+- Engagement
+
 ???
 I'm going to start with my answers to getting better at learning.
 
@@ -42,7 +48,8 @@ These are just simple words, though not necessarily easy concepts to put into pr
 However answers need a context, without one there's so much information that is hidden. They're nothing more than directions without a start point.
 
 ---
-background-image: url(i-flip-flap-184343_1920.jpg)
+
+background-image: url(images/i-flip-flap-184343_1920.jpg)
 class: right, dark-image
 
 #Who Am I?
@@ -55,23 +62,48 @@ Basically I'm no different from you, so while these answers are mine and this st
 background-image: url(learningpyramid4.jpg)
 class: center
 
-##Learning Pyramid##
-
 ???
 It's a hoax.
 The various stages are basically all equal.
+TODO: Find the title  and names of the research into this. From Peak book.
 
 ---
 
-##VARK##
+#VARK#
+
 - Visual
+
+--
+
 - Auditory
+
+--
+
 - Read/Write
+
+--
+
 - Kinesthetics
 
+???
+This is a real company. 
+There is really some research on it's effects, the effects tend to be small 1.5% to 3%
+
+usefull as it brought the phrase retention to my attention.
+
 ---
 
-##Re-Reading Notes##
+background-image: url(images/dam-634396_1920.jpg)
+
+#Retention#
+
+???
+Retention is not understanding, it's memorization.
+---
+
+background-image: url(images/notes-514998_1920.jpg)
+
+#Re-Reading Notes#
 Dramatically increases retention.
 caution: This is retention not understanding.
 
