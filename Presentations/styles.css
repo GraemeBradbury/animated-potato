@@ -9,6 +9,7 @@ h1, h2, h3 {
 .remark-slide-content {
   background-color: #eee8d5;
   color: #657b83;
+  background-size: cover !important;
 }
 .remark-slide-content h1 { font-size: 3em; }
 .remark-slide-content h2 { font-size: 2em; }
@@ -102,4 +103,4 @@ blockquote p {
 
 .dark-image {
 	color: #f3f3f3;
-}		
+}
