@@ -59,8 +59,9 @@ I'm Graeme, I've been a software developer for around 16 years now. I currently 
 Basically I'm no different from you, so while these answers are mine and this story is about how I got to them, but we are all learners here so if you have questions as we go along please ask them, I will try and give details about my sources as we go along.
 
 ---
-background-image: url(learningpyramid4.jpg)
 class: center
+
+![learning pyramid](learningpyramid4.jpg)
 
 ???
 It's a hoax.
@@ -94,7 +95,7 @@ There is really some research on it's effects, the effects tend to be small 1.5%
 useful as it brought the phrase retention to my attention.
 
 ---
-
+class: dark-image
 background-image: url(images/dam-634396_1920.jpg)
 
 #Retention#
@@ -108,7 +109,7 @@ Take notes
 
 
 ---
-
+class:dark-image
 background-image: url(images/notes-514998_1920.jpg)
 
 #Re-Reading Notes#
@@ -116,7 +117,10 @@ background-image: url(images/notes-514998_1920.jpg)
 ???
 Dramatically increases retention.
 caution: This is retention not understanding.
+followupthen.com do the initial notes in whatever manner i want.
+turn them into electronic and email them to myself.
 
+hour/day/week/month/2 month/3 month/6 month
 ---
 
 background-image: url(images/books-1245690_1920.jpg)
@@ -195,9 +199,9 @@ background-image: url(images/me.jpg)
 Yes 
 
 ---
-class: idea-summary
+class: idea-summary, center, middle
 
-@graemebradbury
+#@graemebradbury
 
 ???
 Thanks you for listening to my first talk.
