@@ -71,7 +71,6 @@ TODO: Find the title  and names of the research into this. From Peak book.
 ---
 
 class: center
-background-image: url(images/owl-47526.jpg)
 
 #VARK#
 
@@ -169,6 +168,14 @@ background-image: url(images/forest-315184.jpg)
 
 ---
 
+
+background-image: url(images/books-1245690_1920.jpg)
+
+???
+Story about REV tree edit distance.
+
+---
+
 class: dark-image
 background-image: url(images/blur-16671_1920.jpg)
 
@@ -179,23 +186,19 @@ Talk about london cabbies, how the knowledge creates and actual physical change 
 
 ---
 
-background-image: url(images/books-1245690_1920.jpg)
+background-image: url(images/pen-543858_1920.jpg)
 
-???
-Story about REV tree edit distance.
-
----
-background-image: url(images/notes-686344_1920.jpg)
-
-#Hand writing notes - Stepping outside of comfort zone.
+#Hand writing notes
 
 ---
-background-image: url(images/owl-47526.jpg)
+class: dark-image
+background-image: url(images/cactus-1059633_1920.jpg)
 
 #Read-Recite-Review
 
 ---
-background-image: url(images/owl-47526.jpg)
+class: dark-image
+background-image: url(images/firefighters-906203.jpg)
 
 #Deliberate Practice
 
@@ -204,19 +207,17 @@ An on the job version of engagement and feedback.
 See a problem
 ---
 
-background-image: url(images/owl-47526.jpg)
+background-image: url(images/tai-qi-1583805_1920.jpg)
 
 #Role of the Teacher
 
-#Mental Representations
-
 ???
 Fundamentals. Chunking.
-How do you recognise that what you did was wrong. How do you recognise the 
+How do you recognise that what you did was wrong. How do you recognise the where it is you went wrong.
 
 ---
 
-background-image: url(images/me.jpg)
+class: idea-summary, center, middle
 
 #Did I succeed?
 
