@@ -69,6 +69,8 @@ TODO: Find the title  and names of the research into this. From Peak book.
 
 ---
 
+background-image: url(images/owl-47526.jpg)
+
 #VARK#
 
 - Visual
@@ -100,6 +102,11 @@ background-image: url(images/dam-634396_1920.jpg)
 ???
 Retention is not understanding, it's memorization.
 
+Self-Rehearsal
+
+Take notes
+
+
 ---
 
 background-image: url(images/notes-514998_1920.jpg)
@@ -112,9 +119,14 @@ caution: This is retention not understanding.
 
 ---
 
-#Story about Charlie Munger/Warren Buffet.
+background-image: url(images/books-1245690_1920.jpg)
+
+???
+Story about Charlie Munger/Warren Buffet.
 
 ---
+
+background-image: url(images/head-1597546_1920.jpg)
 
 #Why Why Why
 
@@ -123,24 +135,38 @@ It's about the goals, but they need to be good goals. That is they cannot and mu
 
 ---
 
+background-image: url(images/forest-315184.jpg)
+
 #No-Decisions
 
 ---
 
-#Question all the things.
+background-image: url(images/blur-16671_1920.jpg)
+
+#Recognizing engagement.
 
 ???
 Talk about london cabbies, how the knowledge creates and actual physical change to the brain. What happens when they retire.
 
 ---
 
+background-image: url(images/books-1245690_1920.jpg)
+
+???
+Story about REV tree edit distance.
+
+---
+background-image: url(images/notes-686344_1920.jpg)
+
 #Hand writing notes - Stepping outside of comfort zone.
 
 ---
+background-image: url(images/owl-47526.jpg)
 
 #Read-Recite-Review
 
 ---
+background-image: url(images/owl-47526.jpg)
 
 #Deliberate Practice
 
@@ -148,6 +174,8 @@ Talk about london cabbies, how the knowledge creates and actual physical change 
 An on the job version of engagement and feedback.
 See a problem
 ---
+
+background-image: url(images/owl-47526.jpg)
 
 #Role of the Teacher
 
@@ -159,15 +187,17 @@ How do you recognise that what you did was wrong. How do you recognise the
 
 ---
 
+background-image: url(images/me.jpg)
+
 #Did I succeed?
 
 ???
 Yes 
 
 ---
+class: idea-summary
+
+@graemebradbury
 
 ???
-Passion.
-Talk about the learning.
-
-Learning is a huge thing, to learn not only opens up new things to learn. Which by itself it is a great reason to do it.
+Thanks you for listening to my first talk.
