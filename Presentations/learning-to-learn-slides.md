@@ -70,23 +70,26 @@ TODO: Find the title  and names of the research into this. From Peak book.
 
 ---
 
+class: center
 background-image: url(images/owl-47526.jpg)
 
 #VARK#
 
-- Visual
+--
+
+##Visual
 
 --
 
-- Auditory
+##Auditory
 
 --
 
-- Read/Write
+##Read/Write
 
 --
 
-- Kinesthetics
+##Kinesthetics
 
 ???
 This is a real company. 
@@ -130,21 +133,43 @@ Story about Charlie Munger/Warren Buffet.
 
 ---
 
+class: dark-image
 background-image: url(images/head-1597546_1920.jpg)
 
-#Why Why Why
+#Why?
 
 ???
 It's about the goals, but they need to be good goals. That is they cannot and must not focus on an outcome, the focus should instead be on the process of reaching the outcome. If you find a way of dangling a moving carrot (with rewards along the way) chase it.
 
 ---
 
+class: dark-image
 background-image: url(images/forest-315184.jpg)
 
 #No-Decisions
 
 ---
 
+class: dark-image
+background-image: url(images/forest-315184.jpg)
+
+#Habits
+
+--
+
+##Cue
+
+--
+
+##Routine
+
+--
+
+##Rewards
+
+---
+
+class: dark-image
 background-image: url(images/blur-16671_1920.jpg)
 
 #Recognizing engagement.
