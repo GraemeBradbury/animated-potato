@@ -30,11 +30,11 @@ So that is what this talk is about.
 class: idea-summary, center, middle
 
 
-- Consistency and Momentum
+##Consistency and Momentum
 
 --
 
-- Engagement
+##Engagement
 
 ???
 I'm going to start with my answers to getting better at learning.
@@ -89,7 +89,7 @@ TODO: Find the title  and names of the research into this. From Peak book.
 This is a real company. 
 There is really some research on it's effects, the effects tend to be small 1.5% to 3%
 
-usefull as it brought the phrase retention to my attention.
+useful as it brought the phrase retention to my attention.
 
 ---
 
@@ -99,50 +99,70 @@ background-image: url(images/dam-634396_1920.jpg)
 
 ???
 Retention is not understanding, it's memorization.
+
 ---
 
 background-image: url(images/notes-514998_1920.jpg)
 
 #Re-Reading Notes#
+
+???
 Dramatically increases retention.
 caution: This is retention not understanding.
 
 ---
 
-#Middle#
+#Story about Charlie Munger/Warren Buffet.
 
 ---
 
-Story about Charlie Munger/Warren Buffet.
+#Why Why Why
+
+???
+It's about the goals, but they need to be good goals. That is they cannot and must not focus on an outcome, the focus should instead be on the process of reaching the outcome. If you find a way of dangling a moving carrot (with rewards along the way) chase it.
 
 ---
 
-1. Why Why Why
+#No-Decisions
 
 ---
 
-2. No-Decisions
+#Question all the things.
+
+???
+Talk about london cabbies, how the knowledge creates and actual physical change to the brain. What happens when they retire.
 
 ---
 
-3. Question all the things.
+#Hand writing notes - Stepping outside of comfort zone.
 
 ---
 
-#Now#
+#Read-Recite-Review
 
 ---
 
-1. Hand writing notes - Stepping outside of comfort zone.
+#Deliberate Practice
+
+???
+An on the job version of engagement and feedback.
+See a problem
+---
+
+#Role of the Teacher
+
+#Mental Representations
+
+???
+Fundamentals. Chunking.
+How do you recognise that what you did was wrong. How do you recognise the 
 
 ---
 
-2. Read-Recite-Review
+#Did I succeed?
 
----
-
-3. Role of the Teacher
-
+???
+Yes 
 
 ---
 
