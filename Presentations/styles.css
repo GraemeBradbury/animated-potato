@@ -100,6 +100,7 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
+  font-size: xx-large;
 }
 
 .dark-image {

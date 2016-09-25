@@ -109,7 +109,7 @@ Self-Rehearsal
 
 Take notes
 
-
+chunking
 ---
 class:dark-image
 background-image: url(images/notes-514998_1920.jpg)
@@ -216,8 +216,8 @@ Fundamentals. Chunking.
 How do you recognise that what you did was wrong. How do you recognise the where it is you went wrong.
 
 ---
-
-class: idea-summary, center, middle
+class: dark-image
+background-image: url(images/WP_20150824_016.jpg)
 
 #Did I succeed?
 
