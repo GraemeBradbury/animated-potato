@@ -9,22 +9,24 @@
 * Tried various things, some of which had positive effects on friends. No noticeable effects on me.
 
 ##Sleep/Time
-* Found that reduced sleep had a non-immediate knock on effect on learning. There was often 3-4 days before it had a negative effect and then was not really noticeable until review time.
+* Found that reduced sleep had a non-immediate knock on effect on learning. There was often 3-4 days before it had a negative effect and then was not really noticeable until I was reviewing my learning and found that I had forgotten a much larger amount than expected.
 
 * Experimented with learning at various times of the day. Found morning was much easier than afternoon. Did notice it was very difficult for me to learn after meetings/social time.
 
+* Pomedoro technique - Found 25min resulted in far too frequent interruptions and hindered getting "into" the subject. Experimented with various timings and settled on 55min focus + 5 min break (email etc) then 55 min focus followed by 25min breka (email etc)
+
 ##Environment
-* Working without headphones greatly increased irritability and lose of focus/flow.
+* Working without headphones resulted in increased irritability and lose of focus/flow, compared with headphones + music.
 
 * Upgraded to Active noise cancellation headphones. Found an improvement in dropping into flow compared with just music over regular headphones.
 
-* Music variations - Tried various genres and found that taking up tempo non english language music combined really well with headphones to keep me in flow. The tempo was useful for supplying the momentum for working through the subject. Use slower tempo music for introduction to new subject. As long as I can't recognise the words being spoken then didn't find ikt distracting at all.
+* Music variations - Tried various genres and found that listening to up tempo non english language music combined really well with headphones to keep me in flow. The tempo was useful for supplying the momentum for working through the subject. Used slower tempo music for introduction to new subject. As long as I can't recognise the words being spoken then didn't find it distracting at all.
 
 * Make occasional use of Brain.fm to kick me into focusing on dull work. Generally don't need it and find it can be a little dull for subjects that I enjoy.
 
-* Momentum -> Trello -> Pomello - Use momentum to display my learning track/tasks from Trello for the day. Trello is primarily used as a syncing point. With Pomello being used to provide a visual reminder about current task.
+* Chrome extensions combo:  'Momentum -> Trello -> Pomello' - Use momentum to display my learning track/tasks from Trello for the day. Trello is primarily used as a syncing point. With Pomello being used to provide a visual reminder about current task.
 
-* Pomedoro technique - found it more frustrating than useful. However the constant visual reminder about what I should be focused on was a very useful learning. Now do a variant with 55min focus + 5 min break (email etc) then 55 min focus followed by 25min breka (email etc)
+* Pomello - The constant visual reminder about what I should be focused on was very useful during learning. There was a number of instances where seeing the red rectangle on screen stopped we wandering mentally.
 
 ##Retention
 * Found self-rehearsal was very beneficial to remembering new info, but only when I already knew the fundamentals. When I was lacking in the base knowledge chunks then trying to self rehearse was an absolute waste of time. I think this is due to having immature mental models for recognising errors.
@@ -33,7 +35,7 @@
 
 * Sketch Notes - abandoned this as I found I would regularly get distracted by the drawing and art techniques rather than staying focused on the subject.
 
-* Directed talks - Found that giving talks to groups of people (small or large) had no noticeable effect on retention. Exception when dealing with more live feedback and conversation. Chats between people rather than "sage on stage" talks seemed to help all more. Currently trying out a slack group/channels setup to have asynchronous discussions for learning.
+* Directed talks - Found that giving talks to groups of people (small or large) had no noticeable effect on retention. Exception when dealing with more live feedback and conversation. Chats between people rather than "sage on stage" talks seemed to help. Currently trying out a slack group/channels setup to have asynchronous discussions for learning.
 
 ##No-Decisions
 * Use followupthen.com to email myself the notes I write for future review. Once it had happened a couple of times, it became natural to just sit and read the email and then bounce it for the next time period. No excuses or delays just did it.
