@@ -14,3 +14,24 @@
 
 ##Front Loading
 Start with statement and conclusions, then follow with the reasoning that got me there.
+
+##Remove passive voice
+The subject of the sentence is not the actor performing the action.
+
+Recognise
+Raise awareness
+Reconsider
+Rewrite
+Retrain.
+
+On-line tools like Grammarly will highlight passive voice.
+
+look for:
+
+* is
+* are
+* can
+* could
+* have
+* has
+* ought
