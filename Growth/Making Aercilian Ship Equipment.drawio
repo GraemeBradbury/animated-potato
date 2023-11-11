@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T16:16:11.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="ZtoW-_oFnvoyGD7lWqmd" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T16:32:26.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="rB9T7m6BqX_2fElXmgfM" version="22.1.0" type="github">
   <diagram name="Page-1" id="hc0cmi0Zw7IhH53E_yqD">
     <mxGraphModel dx="1573" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -222,9 +222,9 @@
         <mxCell id="g-7ipsMHgPrjTccObFxa-44" value="Green Waste" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g-7ipsMHgPrjTccObFxa-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.967;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="g-7ipsMHgPrjTccObFxa-44" target="g-7ipsMHgPrjTccObFxa-39">
+        <mxCell id="g-7ipsMHgPrjTccObFxa-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="g-7ipsMHgPrjTccObFxa-44" target="g-7ipsMHgPrjTccObFxa-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-194" y="711" as="sourcePoint" />
+            <mxPoint x="256" y="307" as="sourcePoint" />
             <mxPoint x="-94" y="711" as="targetPoint" />
             <Array as="points">
               <mxPoint x="210" y="272" />
@@ -543,6 +543,15 @@
         </mxCell>
         <mxCell id="g-7ipsMHgPrjTccObFxa-103" value="Mill" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g-7ipsMHgPrjTccObFxa-104" value="Carpentry" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g-7ipsMHgPrjTccObFxa-105" value="Packaging" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g-7ipsMHgPrjTccObFxa-106" value="Steelier Row" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
